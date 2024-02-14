@@ -27,9 +27,4 @@ A custom-built chatbot leveraging a transformer architecture, implemented from s
 ## Example Usage
 After training, the model can interactively generate replies to user inputs in a command-line interface.
 
-## Contributions
-Contributions to this project are welcome, whether it's improving the model, expanding the dataset, or enhancing the preprocessing steps.
 
----
-
-This description gives a detailed overview of the project's purpose, key features, and usage instructions. You can modify it to include any additional details or to reflect your project's specific aspects.
